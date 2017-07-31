@@ -116,6 +116,12 @@ body{margin: 0;padding: 0}
       }
     }
   }
-
+  .bread-bar{
+    padding: 10px 0;
+    border-bottom: 1px solid #e6e6e6;
+  }
+  .ins-form{
+    padding: 20px 0;
+  }
 
 </style>

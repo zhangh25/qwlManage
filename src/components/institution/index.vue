@@ -1,7 +1,7 @@
 <template xmlns="">
   <el-row>
     <el-breadcrumb separator="/" class="bread-bar">
-      <el-breadcrumb-item :to="{ path: '/' }">龙华民政局</el-breadcrumb-item>
+      <el-breadcrumb-item :to="{ path: '/' }">XXX民政局</el-breadcrumb-item>
       <el-breadcrumb-item>机构信息</el-breadcrumb-item>
     </el-breadcrumb>
     <el-form :inline="true" v-model="form" class="ins-form">
@@ -110,11 +110,5 @@
 </script>
 
 <style rel="stylesheet/less" lang="less">
-  .bread-bar{
-    padding: 10px 0;
-    border-bottom: 1px solid #e6e6e6;
-  }
-  .ins-form{
-    padding: 20px 0;
-  }
+
 </style>

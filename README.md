@@ -1,5 +1,5 @@
 # qwlManage
-基于vue的一个管理系统模板
+基于vue-elementUI的一个管理系统Damo
 
 npm install
 
